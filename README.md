@@ -82,3 +82,5 @@ Bu komut çalıştırıldığında Gradio tabanlı bir web arayüzü açılır. 
 ### Gerçek vs Tahmin Edilen Değerler
 ![Real vs Pred](real_vs_pred.png)
 
+## Rapor
+- [Proje Raporu (PDF)](report.pdf)
