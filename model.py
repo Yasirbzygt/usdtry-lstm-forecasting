@@ -22,4 +22,3 @@ class LSTMModel(nn.Module):
         out = self.fc(out)
 
         return out
-.
